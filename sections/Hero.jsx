@@ -18,7 +18,7 @@ const Hero = () => (
           MetaVerse
         </motion.h1>
         <motion.div
-          variant={textVariant(1.2)}
+          variants={textVariant(1.2)}
           className="flex flex-row justify-center items-center"
         >
           <h1 className={styles.heroHeading}>Ma</h1>
@@ -26,6 +26,9 @@ const Hero = () => (
           <h1 className={styles.heroHeading}>Ness</h1>
         </motion.div>
       </div>
+
+      
+
     </motion.div>
   </section>
 );
