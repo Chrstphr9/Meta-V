@@ -16,3 +16,5 @@ export {
   InsightCard,
   Footer,
 };
+
+//  Code without newline at the end

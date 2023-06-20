@@ -37,4 +37,5 @@ const InsightCard = ({ imgUrl, title, subtitle, index }) => (
   </motion.div>
 );
 export default InsightCard;
+
 //  Code without newline at the end

@@ -27,3 +27,5 @@ const Page = () => (
 );
 
 export default Page;
+
+//  Code without newline at the end

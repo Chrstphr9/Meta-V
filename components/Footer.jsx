@@ -59,4 +59,5 @@ const Footer = () => (
 );
 
 export default Footer;
+
 //  Code without newline at the end

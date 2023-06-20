@@ -34,4 +34,5 @@ const Navbar = () => (
 );
 
 export default Navbar;
+
 //  Code without newline at the end

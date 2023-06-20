@@ -26,4 +26,5 @@ export const TitleText = ({ title, textStyles }) => (
     {title}
   </motion.h2>
 );
+
 //  Code without newline at the end

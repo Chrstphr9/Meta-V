@@ -45,4 +45,5 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
 );
 
 export default ExploreCard;
+
 //  Code without newline at the end
