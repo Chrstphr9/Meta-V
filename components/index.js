@@ -17,4 +17,4 @@ export {
   Footer,
 };
 
-//  Code without newline at the end
+// Empty line at the end

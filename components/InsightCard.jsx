@@ -38,4 +38,5 @@ const InsightCard = ({ imgUrl, title, subtitle, index }) => (
 );
 export default InsightCard;
 
-//  Code without newline at the end
+
+// Empty line at the end

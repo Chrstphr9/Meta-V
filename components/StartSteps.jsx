@@ -16,4 +16,5 @@ const StartSteps = ({ number, text }) => (
 
 export default StartSteps;
 
-//  Code without newline at the end
+
+// Empty line at the end

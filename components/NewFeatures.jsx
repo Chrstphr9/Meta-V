@@ -18,4 +18,5 @@ const NewFeatures = ({ imgUrl, title, subtitle }) => (
 
 export default NewFeatures;
 
-//  Code without newline at the end
+
+// Empty line at the end
