@@ -1,3 +1,5 @@
+/* eslint-disable eol-last */
+
 import Navbar from './Navbar';
 import { TypingText, TitleText } from './CustomTexts';
 import ExploreCard from './ExploreCard';

@@ -1,3 +1,5 @@
+/* eslint-disable eol-last */
+
 import styles from '../styles';
 
 const NewFeatures = ({ imgUrl, title, subtitle }) => (
@@ -17,6 +19,5 @@ const NewFeatures = ({ imgUrl, title, subtitle }) => (
 );
 
 export default NewFeatures;
-
 
 // Empty line at the end

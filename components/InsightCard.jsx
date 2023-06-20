@@ -1,3 +1,5 @@
+/* eslint-disable eol-last */
+
 'use client';
 
 import { motion } from 'framer-motion';
@@ -37,6 +39,5 @@ const InsightCard = ({ imgUrl, title, subtitle, index }) => (
   </motion.div>
 );
 export default InsightCard;
-
 
 // Empty line at the end

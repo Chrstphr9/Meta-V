@@ -1,3 +1,5 @@
+/* eslint-disable eol-last */
+
 'use client';
 
 import { motion } from 'framer-motion';
@@ -26,6 +28,5 @@ export const TitleText = ({ title, textStyles }) => (
     {title}
   </motion.h2>
 );
-
 
 // Empty line at the end

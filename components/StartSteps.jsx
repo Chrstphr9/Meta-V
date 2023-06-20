@@ -1,3 +1,5 @@
+/* eslint-disable eol-last */
+
 import styles from '../styles';
 
 const StartSteps = ({ number, text }) => (
@@ -15,6 +17,5 @@ const StartSteps = ({ number, text }) => (
 );
 
 export default StartSteps;
-
 
 // Empty line at the end

@@ -1,3 +1,5 @@
+/* eslint-disable eol-last */
+
 'use client';
 
 import { motion } from 'framer-motion';
@@ -59,6 +61,5 @@ const Footer = () => (
 );
 
 export default Footer;
-
 
 // Empty line at the end

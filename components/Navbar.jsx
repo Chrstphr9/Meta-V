@@ -1,3 +1,5 @@
+/* eslint-disable eol-last */
+
 'use client';
 
 import { motion } from 'framer-motion';
@@ -34,6 +36,5 @@ const Navbar = () => (
 );
 
 export default Navbar;
-
 
 // Empty line at the end
